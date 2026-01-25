@@ -1,2 +1,3 @@
 Hi, this is My first Git Pratice in Stagging area.
 Git can Track the modified or changed 
+next step is to learn how to move from stagging area to local repo. using git commit
