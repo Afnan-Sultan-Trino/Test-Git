@@ -1,0 +1,2 @@
+Hi, this is My first Git Pratice in Stagging area.
+Git can Track the modified or changed 

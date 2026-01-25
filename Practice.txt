@@ -1,0 +1,5 @@
+
+Working derectory -> stagging area -> local repository -> remote repository
+
+Git-Practice -> git add....-> git commit....-> git push
+
