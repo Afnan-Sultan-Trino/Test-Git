@@ -1,3 +1,4 @@
 Hi This is new Text file added in feature1 branch
 
 Want to learn about merge conflict
+Hi i am new line in feature4
