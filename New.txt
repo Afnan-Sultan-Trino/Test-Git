@@ -1,4 +1,7 @@
 Hi This is new Text file added in feature1 branch
 
 Want to learn about merge conflict
+
 i am new line in master
+
+
